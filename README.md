@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=SayantanZx&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics🧠<br>👯 I’m looking to collaborate on my Upcoming Reserach Papers & Project's🥺<br>🌱 I’m currently learning Machine Learning & Java Fundamentals😪<br>💬 Ask me about Python (Numpy, Pandas, Seaborn) & Competitive Programming🥱<br>⚡ Fun fact : Optimized🥴
+🔭 I’m currently working on Data Analytics🧠<br>👯 I’m looking to collaborate on my Upcoming Project's🥺<br>🌱 I’m currently learning Machine Learning 😪<br>💬 Ask me about Python (Numpy, Pandas, Seaborn) & Competitive Programming🥱<br>⚡ Fun fact : Optimized🥴
 
 
 ## 🌐 Socials:
